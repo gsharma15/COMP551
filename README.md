@@ -1,1 +1,1 @@
-# COMP551
+# COMP551 - Applied Machine Learning
